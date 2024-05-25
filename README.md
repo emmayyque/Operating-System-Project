@@ -1,5 +1,7 @@
 # Operating-System-Project
 
+Developed a short Point of Sale Program in Bash, using Shell Scripting which covers all the modules from adding a product to managing the products etc. 
+
 ![POS 1](https://github.com/emmayyque/Operating-System-Project/assets/71573485/26fb8df8-059e-4a82-ab33-498873619622)
 ![POS 2](https://github.com/emmayyque/Operating-System-Project/assets/71573485/5fa84872-e637-4bed-91c2-71b3dd413c6c)
 ![POS 3](https://github.com/emmayyque/Operating-System-Project/assets/71573485/fb223414-9ea0-4cd2-91d0-d802ce7e27c9)

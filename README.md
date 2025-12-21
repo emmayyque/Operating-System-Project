@@ -1,4 +1,4 @@
-# Operating-System-Project
+# Point of Sale Console App in Bash
 
 Developed a short Point of Sale Program in Bash, using Shell Scripting which covers all the modules from adding a product to managing the products etc. 
 
